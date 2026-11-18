@@ -100,11 +100,6 @@ Huit mesures commentées (en anglais et en français) se trouvent dans **[model/
 - Chiffres en **M€ avec une décimale**, chaque écart affiché en valeur et en %.
 - Un thème JSON personnalisé, des cartes au style homogène et une mise en forme identique sur toutes les pages grâce à l'outil Reproduire la mise en forme.
 
-## Outils & démarche
-
-- **Power BI Service** uniquement, sur Mac dans le navigateur, sans Power BI Desktop : modélisation web, vue TMDL pour écrire les tables et les mesures, et vue de requête DAX pour vérifier les résultats.
-- **Python** (pandas, openpyxl) pour générer un jeu de données synthétique réaliste : saisonnalité, tendances propres à chaque filiale, budget et deux versions de forecast.
-- **Développement assisté par IA** avec Claude. Chaque chiffre de ce README a été vérifié sur les données sources avec des requêtes DAX.
 
 ## Contenu du dépôt
 
