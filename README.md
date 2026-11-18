@@ -100,12 +100,6 @@ Eight commented measures are in **[model/key-measures.md](model/key-measures.md)
 - Numbers in **€M with one decimal**, and every variance shown both in value and in %.
 - A custom JSON theme, consistent card styles, and the format painter used for identical formatting across pages.
 
-## Tools & approach
-
-- **Power BI Service** only, built on a Mac in the browser with no Power BI Desktop: web modelling, the TMDL view to script tables and measures, and the DAX query view to test results.
-- **Python** (pandas, openpyxl) to generate a realistic synthetic dataset: seasonality, entity-specific trends, budget and two forecast versions.
-- **AI-assisted development** with Claude. Every figure in this README was checked against the source data with DAX queries.
-
 ## Repository content
 
 ```
